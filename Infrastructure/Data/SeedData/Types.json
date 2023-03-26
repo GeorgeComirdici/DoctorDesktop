@@ -1,0 +1,70 @@
+[
+  {
+    "Id": 1,
+    "Name": "Processors"
+  },
+  {
+    "Id": 2,
+    "Name": "Motherboards"
+  },
+  {
+    "Id": 3,
+    "Name": "Video Cards"
+  },
+  {
+    "Id": 4,
+    "Name": "Computer Cases"
+  },
+  {
+    "Id": 5,
+    "Name": "Power Supplies"
+  },
+  {
+    "Id": 6,
+    "Name": "Memory"
+  },
+  {
+    "Id": 7,
+    "Name": "Storage"
+  },
+  {
+    "Id": 8,
+    "Name": "Optical Drives"
+  },
+  {
+    "Id": 9,
+    "Name": "PC Cooling"
+  },
+  {
+    "Id": 10,
+    "Name": "Laptops"
+  },
+  {
+    "Id": 11,
+    "Name": "Gaming laptops"
+  },
+  {
+    "Id": 12,
+    "Name": "Desktop Computers"
+  },
+  {
+    "Id": 13,
+    "Name": "Monitors"
+  },
+  {
+    "Id": 14,
+    "Name": "Mouse"
+  },
+  {
+    "Id": 15,
+    "Name": "Keyboards"
+  },
+  {
+    "Id": 16,
+    "Name": "Headsets"
+  },
+  {
+    "Id": 17,
+    "Name": "Mouse Pads"
+  }
+]

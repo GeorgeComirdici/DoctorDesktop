@@ -1,0 +1,146 @@
+[
+  {
+    "Id": 1,
+    "Name": "AMD"
+  },
+  {
+    "Id": 2,
+    "Name": "Intel"
+  },
+  {
+    "Id": 3,
+    "Name": "ASRock"
+  },
+  {
+    "Id": 4,
+    "Name": "GIGABYTE"
+  },
+  {
+    "Id": 5,
+    "Name": "ASUS"
+  },
+  {
+    "Id": 6,
+    "Name": "MSI"
+  },
+  {
+    "Id": 7,
+    "Name": "Thermaltake"
+  },
+  {
+    "Id": 8,
+    "Name": "Fractal Design"
+  },
+  {
+    "Id": 9,
+    "Name": "Corsair"
+  },
+  {
+    "Id": 10,
+    "Name": "Segotep"
+  },
+  {
+    "Id": 11,
+    "Name": "Seasonic"
+  },
+  {
+    "Id": 12,
+    "Name": "be quiet!"
+  },
+  {
+    "Id": 13,
+    "Name": "G.Skill"
+  },
+  {
+    "Id": 14,
+    "Name": "Kingston"
+  },
+  {
+    "Id": 15,
+    "Name": "Patriot"
+  },
+  {
+    "Id": 16,
+    "Name": "WD"
+  },
+  {
+    "Id": 17,
+    "Name": "Seagate"
+  },
+  {
+    "Id": 18,
+    "Name": "Samsung"
+  },
+  {
+    "Id": 19,
+    "Name": "ADATA"
+  },
+  {
+    "Id": 20,
+    "Name": "LG"
+  },
+  {
+    "Id": 21,
+    "Name": "ARCTIC"
+  },
+  {
+    "Id": 22,
+    "Name": "Deepcool"
+  },
+  {
+    "Id": 23,
+    "Name": "ID-Cooling"
+  },
+  {
+    "Id": 24,
+    "Name": "Apple"
+  },
+  {
+    "Id": 25,
+    "Name": "Acer"
+  },
+  {
+    "Id": 26,
+    "Name": "DELL"
+  },
+  {
+    "Id": 27,
+    "Name": "HP"
+  },
+  {
+    "Id": 28,
+    "Name": "Lenovo"
+  },
+  {
+    "Id": 29,
+    "Name": "AOC"
+  },
+  {
+    "Id": 30,
+    "Name": "BenQ"
+  },
+  {
+    "Id": 31,
+    "Name": "Philips"
+  },
+  {
+    "Id": 32,
+    "Name": "Logitech"
+  },
+  {
+    "Id": 33,
+    "Name": "Razer"
+  },
+  {
+    "Id": 34,
+    "Name": "Redragon"
+  },
+  {
+    "Id": 35,
+    "Name": "SteelSeries"
+  },
+  {
+    "Id": 36,
+    "Name": "DrDesktop"
+  }
+]

@@ -1,0 +1,1338 @@
+[
+  {
+    "Name": "AMD Ryzen 5 5500 3.6GHz box",
+    "Description": "Socket: AM4; Cores: 6; Threads: 12; Frequency: 3.6 GHz; Turbo: 4.2 GHz; Memory Types: DDR4 3200; Max Memory Size: 128 GB",
+    "Price": 499.99,
+    "PictureUrl": "images/products/procesor1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "AMD Ryzen 5 5600X 3.7GHz box",
+    "Description": "Socket: AM4; Cores: 6; Threads: 12; Frequency: 3.7 GHz; Turbo: 4.6 GHz; Memory Types: DDR4 3200; Max Memory Size: 128 GB",
+    "Price": 919.99,
+    "PictureUrl": "images/products/procesor2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Intel Rocket Lake, Core i5 11400F 2.6GHz box",
+    "Description": "Socket: 1200; Cores: 6; Threads: 12; Frequency: 2.6 GHz; Turbo: 4.4 GHz; Memory Types: DDR4 3200; Max Memory Size: 128 GB",
+    "Price": 639.99,
+    "PictureUrl": "images/products/procesor3.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Intel Raptor Lake, Core i7 13700K 3.4GHz box",
+    "Description": "Socket: 1700; Cores: 16; Threads: 24; Frequency: 3.4 GHz; Turbo: 5.4 GHz; Memory Types: DDR4 3200/DDR5 5600; Max Memory Size: 128 GB",
+    "Price": 2279.99,
+    "PictureUrl": "images/products/procesor4.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "AMD Ryzen 7 5800X3D 3.4GHz box",
+    "Description": "Socket: AM4; Cores: 8; Threads: 16; Frequency: 3.4 GHz; Turbo: 4.5 GHz; Memory Types: DDR4 3200; Max Memory Size: 128 GB",
+    "Price": 1789.99,
+    "PictureUrl": "images/products/procesor5.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Intel Alder Lake, Core i5 12400F 2.5GHz box",
+    "Description": "Socket: 1700; Cores: 6; Threads: 12; Frequency: 2.5 GHz; Turbo: 4.4 GHz; Memory Types: DDR4 3200/DDR5 4800; Max Memory Size: 128 GB",
+    "Price": 859.99,
+    "PictureUrl": "images/products/procesor6.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "AMD Ryzen 5 7600X 4.7GHz box",
+    "Description": "Socket: AM5; Cores: 6; Threads: 12; Frequency: 4.7 GHz; Turbo: 5.3 GHz; Memory Types: DDR5 5200; Max Memory Size: 128 GB",
+    "Price": 1319.99,
+    "PictureUrl": "images/products/procesor7.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Intel Alder Lake, Core i3 12100F 3.3GHz box",
+    "Description": "Socket: 1700; Cores: 4; Threads: 8; Frequency: 3.3 GHz; Turbo: 4.3 GHz; Memory Types: DDR4 3200/DDR5 4800; Max Memory Size: 128 GB",
+    "Price": 519.99,
+    "PictureUrl": "images/products/procesor8.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Intel Alder Lake, Core i9 12900KF 3.2GHz box",
+    "Description": "Socket: 1700; Cores: 16; Threads: 24; Frequency: 3.2 GHz; Turbo: 5.2 GHz; Memory Types: DDR4 3200/DDR5 4800; Max Memory Size: 128 GB",
+    "Price": 2294.99,
+    "PictureUrl": "images/products/procesor9.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "AMD Ryzen 9 7900X 4.7GHz box",
+    "Description": "Socket: AM5; Cores: 12; Threads: 24; Frequency: 4.7 GHz; Turbo: 5.6 GHz; Memory Types: DDR5 5200; Max Memory Size: 128 GB",
+    "Price": 2369.99,
+    "PictureUrl": "images/products/procesor10.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "ASRock B650 PG Lightning",
+    "Description": "Form Factor: ATX; Socket: AM5; Chipset: B650; SATA: 4; M.2: 3; Memory Type: DDR5 6400; Max Memory Size: 128 GB; Back Panel: 1xHDMI, 4xUSB 2.0, 7xUSB 3.2 Gen1 type A, 1xUSB 3.2 Gen2 type C, 1xRJ-45",
+    "Price": 1017.89,
+    "PictureUrl": "images/products/mobo1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "GIGABYTE B550M DS3H",
+    "Description": "Form Factor: mATX; Socket: AM4; Chipset: B550; SATA: 4; M.2: 2; Memory Type: DDR4 4000; Max Memory Size: 128 GB; Back Panel: 1XPS2, 1xDVI, 1xHDMI, 4xUSB 2.0, 4xUSB 3.2 Gen1 type A, 1xRJ-45",
+    "Price": 489.99,
+    "PictureUrl": "images/products/mobo2.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "GIGABYTE B550 AORUS ELITE V2",
+    "Description": "Form Factor: ATX; Socket: AM4; Chipset: B550; SATA: 4; M.2: 2; Memory Type: DDR4 4400; Max Memory Size: 128 GB; Back Panel: 1xHDMI, 1xDisplay Port, 2xUSB 2.0, 3xUSB 3.2 Gen1 type A, 2xUSB 3.2 Gen2 type A, 1xRJ-45",
+    "Price": 709.99,
+    "PictureUrl": "images/products/mobo3.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "GIGABYTE H510M H",
+    "Description": "Form Factor: mATX; Socket: 1200; Chipset: H510; SATA: 4; M.2: 1; Memory Type: DDR4 3200; Max Memory Size: 64 GB; Back Panel: 1xPS2, 1xVGA, 1xHDMI, 4xUSB 2.0, 2xUSB 3.2 Gen1 type A, 1xRJ-45",
+    "Price": 339.99,
+    "PictureUrl": "images/products/mobo4.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "ASUS PRIME B550-PLUS",
+    "Description": "Form Factor: ATX; Socket: AM4; Chipset: B550; SATA: 6; M.2: 2; Memory Type: DDR4 4600; Max Memory Size: 128 GB; Back Panel: 1xHDMI, 1xDisplay Port, 2xUSB 2.0, 4xUSB 3.2 Gen1 type A, 1xUSB 3.2 Gen2 type A, 1xUSB 3.2 Gen2 type C, 1xRJ-45",
+    "Price": 672.99,
+    "PictureUrl": "images/products/mobo5.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "ASRock H510M-HDV R2.0",
+    "Description": "Form Factor: mATX; Socket: 1200; Chipset: H510; SATA: 4; Memory Type: DDR4 3200; Max Memory Size: 64 GB; Back Panel: 1xPS2 Mouse, 1xPS2 Keyboard, 1xVGA, 1xDVI, 1xHDMI, 4xUSB 2.0, 2xUSB 3.2 Gen1 type A, 1xRJ-45",
+    "Price": 334.99,
+    "PictureUrl": "images/products/mobo6.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "GIGABYTE B660M DS3H AX DDR4",
+    "Description": "Form Factor: mATX; Socket: 1700; Chipset: B660; SATA: 4; M.2: 2; Memory Type: DDR4 5333; Max Memory Size: 128 GB; Back Panel: 1xHDMI, 2xDisplay Port, 2xUSB 2.0, 2xUSB 3.2 Gen1 type A, 1xUSB 3.2 Gen2 type C, 1xRJ-45",
+    "Price": 639.99,
+    "PictureUrl": "images/products/mobo7.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "ASRock B650 PRO RS",
+    "Description": "Form Factor: ATX; Socket: AM5; Chipset: B650; SATA: 4; M.2: 3; Memory Type: DDR5 6200; Max Memory Size: 128 GB; Back Panel: 1xHDMI, 1xDisplay Port, 6xUSB 2.0, 2xUSB 3.2 Gen1 type A, 1xUSB 3.2 Gen2 type A, 1xUSB 3.2 Gen2 type C, 1xRJ-45",
+    "Price": 1087.49,
+    "PictureUrl": "images/products/mobo8.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "ASUS TUF GAMING Z690-PLUS D4",
+    "Description": "Form Factor: ATX; Socket: 1700; Chipset: Z690; SATA: 4; M.2: 4; Memory Type: DDR4 5333; Max Memory Size: 128 GB; Back Panel: 1xHDMI, 1xDisplay Port, 4xUSB 3.2 Gen1 type A, 1xUSB 3.2 Gen2 type A, 1xUSB 3.2 Gen2 type C, 1xRJ-45",
+    "Price": 1589.99,
+    "PictureUrl": "images/products/mobo9.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "ASUS PRIME B760M-A DDR4",
+    "Description": "Form Factor: mATX; Socket: 1700; Chipset: B760; SATA: 4; M.2: 2; Memory Type: DDR4 5333; Max Memory Size: 128 GB; Back Panel: 1xPS2, 2xHDMI, 1xDisplay Port, 4xUSB 2.0, 2xUSB 3.2 Gen1 type A, 1xRJ-45",
+    "Price": 919.99,
+    "PictureUrl": "images/products/mobo10.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "GIGABYTE GeForce RTX 3070 EAGLE OC LHR 8GB GDDR6 256-bit",
+    "Description": "Interface: PCI Express 4.0; Boost Clock: 1770 MHz; Memory Type: GDDR6; Memory Size: 8GB; Ports: 2xHDMI, 2xDisplay Port; Power Connector: 1x6-pin PCI-E, 1x8-pin PCI-E",
+    "Price": 2949.99,
+    "PictureUrl": "images/products/gpu1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "GIGABYTE GeForce RTX 3060 EAGLE LHR 12GB GDDR6 192-bit",
+    "Description": "Interface: PCI Express 4.0; Memory Type: GDDR6; Memory Size: 12GB; Ports: 2xHDMI, 2xDisplay Port; Power Connector: 1x8-pin PCI-E",
+    "Price": 2009.99,
+    "PictureUrl": "images/products/gpu2.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "ASUS GeForce RTX 4070 Ti ROG STRIX GAMING O12G 12GB GDDR6X 192-bit",
+    "Description": "Interface: PCI Express 4.0; Boost Clock: 2790 MHz; Memory Type: GDDR6X; Memory Size: 12GB; Ports: 2xHDMI, 3xDisplay Port; Power Connector: 1x16-pin PCI-E",
+    "Price": 6199.99,
+    "PictureUrl": "images/products/gpu3.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "ASUS GeForce GTX 1650 DUAL 4GB GDDR5 128-bit",
+    "Description": "Interface: PCI Express 3.0; Boost Clock: 1695 MHz; Memory Type: GDDR5; Memory Size: 4GB; Ports: 1xHDMI, 1xDisplay Port, 1xDVI",
+    "Price": 1059.99,
+    "PictureUrl": "images/products/gpu4.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "MSI GeForce RTX 4080 SUPRIM X 16GB GDDR6X 256-bit",
+    "Description": "Interface: PCI Express 4.0; Boost Clock: 2625 MHz; Memory Type: GDDR6X; Memory Size: 16GB; Ports: 1xHDMI, 3xDisplay Port; Power Connector: 1x16-pin PCI-E",
+    "Price": 8179.99,
+    "PictureUrl": "images/products/gpu5.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "GIGABYTE GeForce RTX 4080 EAGLE OC 16GB GDDR6X 256-bit",
+    "Description": "Interface: PCI Express 4.0; Boost Clock: 2520 MHz; Memory Type: GDDR6X; Memory Size: 16GB; Ports: 1xHDMI, 3xDisplay Port; Power Connector: 1x16-pin PCI-E",
+    "Price": 7819.99,
+    "PictureUrl": "images/products/gpu6.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "MSI GeForce RTX 3070 Ti VENTUS 3X OC 8GB GDDR6X 256-bit",
+    "Description": "Interface: PCI Express 4.0; Boost Clock: 1800 MHz; Memory Type: GDDR6X; Memory Size: 8GB; Ports: 1xHDMI, 3xDisplay Port; Power Connector: 2x8-pin PCI-E",
+    "Price": 3357.89,
+    "PictureUrl": "images/products/gpu7.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "ASUS GeForce RTX 3060 DUAL OC 8GB GDDR6 128-bit",
+    "Description": "Interface: PCI Express 4.0; Boost Clock: 1867 MHz; Memory Type: GDDR6; Memory Size: 8GB; Ports: 1xHDMI, 3xDisplay Port; Power Connector: 1x8-pin PCI-E",
+    "Price": 2079.99,
+    "PictureUrl": "images/products/gpu8.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "GIGABYTE Radeon RX 7900 XT GAMING OC 20GB GDDR6 320-bit",
+    "Description": "Interface: PCI Express 4.0; Boost Clock: 2535 MHz; Memory Type: GDDR6; Memory Size: 20GB; Ports: 2xHDMI, 2xDisplay Port; Power Connector: 2x8-pin PCI-E",
+    "Price": 5548.99,
+    "PictureUrl": "images/products/gpu9.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "MSI Radeon RX 6750 XT GAMING X TRIO 12GB GDDR6 192-bit",
+    "Description": "Interface: PCI Express 4.0; Boost Clock: 2623 MHz; Memory Type: GDDR6; Memory Size: 12GB; Ports: 1xHDMI, 3xDisplay Port; Power Connector: 2x8-pin PCI-E",
+    "Price": 2723.99,
+    "PictureUrl": "images/products/gpu10.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Segotep Halo 5 Black",
+    "Description": "Type: MiddleTower; Motherboard Compatibility: ATX/mATX/mITX; Power Supply: No; Fan Options: Front: 2x120mm/2x140mm, Top: 2x120mm, Bottom: 2x120mm, Rear: 1x120mm; Front Ports: 2xUSB 2.0, 1xUSB 3.0, 2x3.5 mm jack",
+    "Price": 160.19,
+    "PictureUrl": "images/products/case1.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Segotep Lux S Black",
+    "Description": "Type: MiddleTower; Motherboard Compatibility: mATX/mITX; Power Supply: No; Fan Options: Front: 3x120mm, Rear: 1x120mm; Front Ports: 2xUSB 2.0, 1xUSB 3.0, 2x3.5 mm jack",
+    "Price": 334.99,
+    "PictureUrl": "images/products/case2.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Fractal Design Meshify C Dark Tempered Glass",
+    "Description": "Type: MiddleTower; Motherboard Compatibility: ATX/mATX/mITX; Power Supply: No; Fan Options: Front: 3x120mm/2x140mm, Top: 2x120mm/2x140mm, Bottom: 1x120mm; Front Ports: 2xUSB 3.0, 2x3.5 mm jack",
+    "Price": 611.99,
+    "PictureUrl": "images/products/case3.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Thermaltake S200 TG ARGB Black",
+    "Description": "Type: MiddleTower; Motherboard Compatibility: ATX/mATX/mITX; Power Supply: No; Fan Options: Front: 2x120mm/2x140mm, Top: 2x120mm/2x140mm, Rear: 1x120mm; Front Ports: 2xUSB 3.0, 2x3.5 mm jack",
+    "Price": 361.69,
+    "PictureUrl": "images/products/case4.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Thermaltake Versa H18 Window",
+    "Description": "Type: MiniTower; Motherboard Compatibility: mATX/mITX; Power Supply: No; Fan Options: Front: 3x120mm/2x140mm, Top: 1x120mm/1x140mm; Front Ports: 2xUSB 2.0, 1xUSB 3.0, 2x3.5 mm jack",
+    "Price": 260.79,
+    "PictureUrl": "images/products/case5.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Fractal Design Meshify 2 Black TG Dark Tint",
+    "Description": "Type: MiddleTower; Motherboard Compatibility: E-ATX/ATX/mATX/mITX; Power Supply: No; Fan Options: Front: 3x120mm/3x140mm, Top: 3x120mm/3x140mm, Bottom: 2x120mm/2x140mm; Front Ports: 2xUSB 3.0, 1xUSB Type C, 2x3.5 mm jack",
+    "Price": 928.59,
+    "PictureUrl": "images/products/case6.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Segotep SG-K8 Black",
+    "Description": "Type: MiddleTower; Motherboard Compatibility: ATX/mATX/mITX; Power Supply: No; Fan Options: Front: 3x120mm, Top: 3x120mm/2x140mm, Rear: 1x120mm/1x140mm; Front Ports: 2xUSB 2.0, 1xUSB 3.0, 2x3.5 mm jack",
+    "Price": 405.99,
+    "PictureUrl": "images/products/case7.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Segotep Halo 8",
+    "Description": "Type: MiddleTower; Motherboard Compatibility: ATX/mATX/mITX; Power Supply: No; Fan Options: Front: 3x120mm, Top: 2x120mm, Bottom: 2x120mm, Rear: 1x120mm; Front Ports: 2xUSB 2.0, 1xUSB 3.0, 2x3.5 mm jack",
+    "Price": 179.99,
+    "PictureUrl": "images/products/case8.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Thermaltake H330 Tempered Glass",
+    "Description": "Type: MiddleTower; Motherboard Compatibility: ATX/mATX/mITX; Power Supply: No; Fan Options: Front:3x120mm/2x140mm, Top: 2x120mm/2x140mm, Rear: 1x120mm; Front Ports: 2xUSB 2.0, 1xUSB 3.0, 2x3.5 mm jack",
+    "Price": 298.99,
+    "PictureUrl": "images/products/case9.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Fractal Design Pop Air RGB Orange Core",
+    "Description": "Type: MiddleTower; Motherboard Compatibility: ATX/mATX/mITX; Power Supply: No; Fan Options: Front: 2x120mm/2x140mm, Top: 2x120mm/2x140mm, Rear: 1x120mm; Front Ports: 2xUSB 3.0, 2x3.5 mm jack",
+    "Price": 571.99,
+    "PictureUrl": "images/products/case10.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Seasonic Focus GX 80+ Gold 650W",
+    "Description": "Type: ATX; Power: 650W; Fans: 1x135mm; Energy-Efficient: 80+ Gold Certified; Modular: Fully Modular; Connectors: 1x24pin ATX, 2x4+4pin ATX/EPS, 4x6+2 PCI-E, 10xSATA, 3xMolex",
+    "Price": 622.59,
+    "PictureUrl": "images/products/psu1.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "Seasonic B12 BC-650 80+ Bronze 650W",
+    "Description": "Type: ATX 12V; Power: 650W; Fans: 1x120mm; Energy-Efficient: 80+ Bronze Certified; Modular: No; Connectors: 1x24pin ATX, 1x4+4pin ATX/EPS, 4x6+2 PCI-E, 6xSATA, 3xMolex",
+    "Price": 354.99,
+    "PictureUrl": "images/products/psu2.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "Corsair CV550 80+ Bronze 550W",
+    "Description": "Type: ATX 2.31; Power: 550W; Fans: 1x120mm; Energy-Efficient: 80+ Bronze Certified; Modular: No; Connectors: 1x24pin ATX, 1x4+4pin ATX/EPS, 2x6+2 PCI-E, 6xSATA, 4xMolex",
+    "Price": 309.99,
+    "PictureUrl": "images/products/psu3.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Corsair RM1000e 80+ Gold 1000W",
+    "Description": "Type: ATX; Power: 1000W; Fans: 1x120mm; Energy-Efficient: 80+ Gold Certified; Modular: Fully Modular; Connectors: 1x24pin ATX, 2x4+4pin ATX/EPS, 6x6+2 PCI-E, 7xSATA, 4xMolex",
+    "Price": 921.69,
+    "PictureUrl": "images/products/psu4.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Segotep GP Series 80+ Gold 500W",
+    "Description": "Type: ATX 2.31; Power: 500W; Fans: 1x120mm; Energy-Efficient: 80+ Gold Certified; Modular: No; Connectors: 1x24pin ATX, 1x4+4pin ATX/EPS, 2x6+2 PCI-E, 5xSATA, 3xMolex",
+    "Price": 279.99,
+    "PictureUrl": "images/products/psu5.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Corsair CV650 80+ Bronze 650W",
+    "Description": "Type: ATX 2.31; Power: 650W; Fans: 1x120mm; Energy-Efficient: 80+ Bronze Certified; Modular: No; Connectors: 1x24pin ATX, 1x4+4pin ATX/EPS, 2x6+2 PCI-E, 6xSATA, 4xMolex",
+    "Price": 379.99,
+    "PictureUrl": "images/products/psu6.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "be quiet! Straight Power 11 80+ Gold 850W",
+    "Description": "Type: ATX 2.4; Power: 850W; Fans: 1x135mm; Energy-Efficient: 80+ Gold Certified; Modular: Fully Modular; Connectors: 1x24pin ATX, 1x4+4pin ATX/EPS, 4x6+2 PCI-E, 11xSATA, 4xMolex",
+    "Price": 859.99,
+    "PictureUrl": "images/products/psu7.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "Corsair HX1500i 80+ Platinum 1500W",
+    "Description": "Type: ATX; Power: 1500W; Fans: 1x140mm; Energy-Efficient: 80+ Platinum Certified; Modular: Fully Modular; Connectors: 1x24pin ATX, 3x4+4pin ATX/EPS, 9x6+2 PCI-E, 8xSATA, 8xMolex",
+    "Price": 1698.99,
+    "PictureUrl": "images/products/psu8.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Segotep GP900G 80+ Gold 800W",
+    "Description": "Type: ATX; Power: 800W; Fans: 1x140mm; Energy-Efficient: 80+ Gold Certified; Modular: Fully Modular; Connectors: 1x24pin ATX, 1x4+4pin ATX/EPS, 6x6+2 PCI-E, 8xSATA, 6xMolex",
+    "Price": 634.99,
+    "PictureUrl": "images/products/psu9.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "be quiet! System Power 9 CM 80+ Bronze 700W",
+    "Description": "Type: ATX; Power: 700W; Fans: 1x120mm; Energy-Efficient: 80+ Bronze Certified; Modular: Semi-Modular; Connectors: 1x24pin ATX, 1x4+4pin ATX/EPS, 4x6+2 PCI-E, 6xSATA, 2xMolex",
+    "Price": 484.99,
+    "PictureUrl": "images/products/psu10.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "Kingston FURY Beast 16GB DDR4 3200MHz CL16 Dual Channel",
+    "Description": "Type: DDR4; Capacity: 16GB; Speed: DDR4 3200; Voltage: 1.35 V; Timing: 16-18-18",
+    "Price": 239.99,
+    "PictureUrl": "images/products/ram1.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Kingston FURY Beast 32GB DDR4 3200MHz CL16 Dual Channel",
+    "Description": "Type: DDR4; Capacity: 32GB; Speed: DDR4 3200; Voltage: 1.35 V; Timing: 16-18-18",
+    "Price": 441.99,
+    "PictureUrl": "images/products/ram2.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Patriot Viper 4 Blackout 16GB DDR4 3200MHz CL16 Dual Channel",
+    "Description": "Type: DDR4; Capacity: 16GB; Speed: DDR4 3200; Voltage: 1.35 V; Timing: 16-18-18-36",
+    "Price": 239.99,
+    "PictureUrl": "images/products/ram3.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "Kingston FURY Renegade RGB 32GB 6000MHz CL32 Dual Channel",
+    "Description": "Type: DDR5; Capacity: 32GB; Speed: DDR5 6000; Voltage: 1.35 V; Timing: 32-38-38",
+    "Price": 999.99,
+    "PictureUrl": "images/products/ram4.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "G.Skill Aegis 8GB DDR4 3200MHz CL16",
+    "Description": "Type: DDR4; Capacity: 8GB; Speed: DDR4 3200; Voltage: 1.35 V; Timing: 16-18-18-38",
+    "Price": 119.99,
+    "PictureUrl": "images/products/ram5.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "Kingston FURY Beast 32GB DDR5 5600MHz CL40 Dual Channel",
+    "Description": "Type: DDR5; Capacity: 32GB; Speed: DDR5 5600; Voltage: 1.25 V; Timing: 40-40-40",
+    "Price": 729.99,
+    "PictureUrl": "images/products/ram6.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Kingston FURY Beast 64GB DDR4 3200MHz CL16 Dual Channel",
+    "Description": "Type: DDR4; Capacity: 32GB; Speed: DDR4 3200; Voltage: 1.35 V; Timing: 16-20-20",
+    "Price": 799.99,
+    "PictureUrl": "images/products/ram7.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "G.Skill Aegis 16GB DDR4 2666MHz CL19 Dual Channel",
+    "Description": "Type: DDR4; Capacity: 16GB; Speed: DDR4 2666; Voltage: 1.2 V; Timing: 19-19-19-43; Intel XMP 2.0 Ready",
+    "Price": 219.99,
+    "PictureUrl": "images/products/ram8.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "Patriot Viper Steel 32GB DDR4 3200MHz CL16 Dual Channel",
+    "Description": "Type: DDR4; Capacity: 32GB; Speed: DDR4 3200; Voltage: 1.35 V; Timing: 16-18-18-36",
+    "Price": 474.99,
+    "PictureUrl": "images/products/ram9.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "Patriot Viper Venom 32GB DDR5 6000MHz CL36 Dual Channel",
+    "Description": "Type: DDR5; Capacity: 32GB; Speed: DDR5 6000; Voltage: 1.25 V; Timing: 36-36-36-76",
+    "Price": 849.99,
+    "PictureUrl": "images/products/ram10.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "Hard disk Seagate IronWolf 4TB SATA-III 5400RPM 256MB",
+    "Description": "Interface: SATA-III; Capacity: 4TB; Buffer: 256MB; Speed: 5400RPM; Form factor: 3.5inch",
+    "Price": 474.99,
+    "PictureUrl": "images/products/storage1.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "Hard disk WD Blue 2TB SATA-III 7200RPM 256MB",
+    "Description": "Interface: SATA-III; Capacity: 2TB; Buffer: 256MB; Speed: 7200RPM; Form factor: 3.5inch",
+    "Price": 279.99,
+    "PictureUrl": "images/products/storage2.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "SSD Samsung 980 1TB PCI EXPRESS 3.0 x4 M.2 2280",
+    "Description": "Form factor: M.2; Interface: PCI Express 3.0 x4; NVMe Support: Yes; Capacity: 1TB; Max Read: 3500MB/s; Max Write: 3000MB/s",
+    "Price": 459.99,
+    "PictureUrl": "images/products/storage3.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "SSD Samsung 980 PRO 1TB PCI Express 4.0 x4 M.2 2280",
+    "Description": "Form factor: M.2; Interface: PCI Express 4.0 x4; NVMe Support: Yes; Capacity: 1TB; Max Read: 7000MB/s; Max Write: 5000MB/s",
+    "Price": 649.99,
+    "PictureUrl": "images/products/storage4.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "SSD Kingston A400 960GB SATA-III 2.5inch",
+    "Description": "Form factor: 2.5inch; Interface: SATA-III; Capacity: 960GB; Max Read: 500MB/s; Max Write: 450MB/s",
+    "Price": 294.99,
+    "PictureUrl": "images/products/storage5.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "SSD ADATA Ultimate SU650 480GB SATA-III  2.5inch",
+    "Description": "Form factor: 2.5inch; Interface: SATA-III; Capacity: 480GB; Max Read: 520MB/s; Max Write: 450MB/s",
+    "Price": 159.99,
+    "PictureUrl": "images/products/storage6.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "SSD Samsung 990 PRO 1TB PCI Express 4.0 x4 M.2 2280",
+    "Description": "Form factor: M.2; Interface: PCI Express 4.0 x4; NVMe Support: Yes; Capacity: 1TB; Max Read: 7450MB/s; Max Write: 6900MB/s",
+    "Price": 779.99,
+    "PictureUrl": "images/products/storage7.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "SSD WD Blue SA510 250GB SATA-III M.2 2280",
+    "Description": "Form factor: M.2; Interface: SATA-III; NVMe Support: No; Capacity: 250GB; Max Read: 555MB/s; Max Write: 440MB/s",
+    "Price": 109.59,
+    "PictureUrl": "images/products/storage8.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "SSD WD Black SN770 2TB PCI Express 4.0 x4 M.2 2280",
+    "Description": "Form factor: M.2; Interface: PCI Express 4.0 x4; NVMe Support: Yes; Capacity: 2TB; Max Read: 5150MB/s; Max Write: 4850MB/s",
+    "Price": 845.49,
+    "PictureUrl": "images/products/storage9.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "SSD ADATA SX8200 PRO 512GB PCI Express 3.0 x4 M.2 2280",
+    "Description": "Form factor: M.2; Interface: PCI Express 3.0 x4; NVMe Support: Yes; Capacity: 512GB; Max Read: 3350MB/s; Max Write: 2350MB/s",
+    "Price": 228.49,
+    "PictureUrl": "images/products/storage10.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "LG DVD-RW GH24NSD5 Bulk Black",
+    "Description": "CD Read Speed: 48x; DVD Read Speed: 16x; CD Write Speed: 48x; DVD Write Speed: 24x; CD Rewrite Speed: 24x; DVD Rewrite Speed: 6x",
+    "Price": 69.99,
+    "PictureUrl": "images/products/optical1.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "ASUS DVD-RW DRW-24D5MT Bulk Black",
+    "Description": "CD Read Speed: 48x; DVD Read Speed: 16x; CD Write Speed: 48x; DVD Write Speed: 24x; CD Rewrite Speed: 24x; DVD Rewrite Speed: 8x",
+    "Price": 80.49,
+    "PictureUrl": "images/products/optical2.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "ASUS DVD-RW DRW-24F1MT bulk",
+    "Description": "CD Read Speed: 48x; DVD Read Speed: 16x; CD Write Speed: 48x; DVD Write Speed: 24x; CD Rewrite Speed: 24x; DVD Rewrite Speed: 12x",
+    "Price": 64.49,
+    "PictureUrl": "images/products/optical3.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "LG DVD-RW GH24NSD1 bulk black",
+    "Description": "CD Read Speed: 48x; DVD Read Speed: 12x; CD Write Speed: 48x; DVD Write Speed: 24x; CD Rewrite Speed: 24x; DVD Rewrite Speed: 6x",
+    "Price": 64.99,
+    "PictureUrl": "images/products/optical4.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "LG Blu-Ray Writer BH16NS55 bulk black",
+    "Description": "CD Read Speed: 48x; DVD Read Speed: 16x; CD Write Speed: 48x; DVD Write Speed: 16x; CD Rewrite Speed: 24x; DVD Rewrite Speed: 12x; BluRay Read Speed: 12x; BluRay Write Speed: 16x",
+    "Price": 372.19,
+    "PictureUrl": "images/products/optical5.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "LG Blu-Ray Writer BH16NS55R black",
+    "Description": "CD Read Speed: 48x; DVD Read Speed: 16x; CD Write Speed: 48x; DVD Write Speed: 16x; CD Rewrite Speed: 24x; DVD Rewrite Speed: 12x; BluRay Read Speed: 12x; BluRay Write Speed: 16x",
+    "Price": 379.79,
+    "PictureUrl": "images/products/optical6.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "ASUS Blu-Ray Writer BW16D1HT Bulk Black",
+    "Description": "CD Read Speed: 48x; DVD Read Speed: 16x; CD Write Speed: 48x; DVD Write Speed: 16x; CD Rewrite Speed: 24x; DVD Rewrite Speed: 6x; BluRay Read Speed: 12x; BluRay Write Speed: 16x",
+    "Price": 412.69,
+    "PictureUrl": "images/products/optical7.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Cooler CPU ID-Cooling SE-224-XT Basic",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1156, 1200, AM4; Type: Air Cooling System; Fan RPM: 700-1800; Fan Noise: 15.2-32.5 dB; Size: 154x120x73 mm",
+    "Price": 129.99,
+    "PictureUrl": "images/products/cooler1.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "Cooler CPU ARCTIC AC Freezer 34 eSports DUO Grey-White",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1156, 1200, 2011-3, 2066, 1700, AM4; Type: Air Cooling System; Fan RPM: 200 - 2100; Size: 157 x 124 x 103 mm",
+    "Price": 277.69,
+    "PictureUrl": "images/products/cooler2.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "Cooler CPU Deepcool Gammaxx 400S",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1200, 1366, AM2, AM2+, AM3, AM3+, AM4, AM5, FM1, FM2, FM2+; Type: Air Cooling System; Fan RPM: 1300; Fan Noise: 14.6 dB; Size: 155 x 129 x 77 mm",
+    "Price": 103.59,
+    "PictureUrl": "images/products/cooler3.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "Cooler CPU ARCTIC AC Freezer i35 A-RGB",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1200, 1700; Type: Air Cooling System; Fan RPM: 200 - 1700; Fan Noise: 15.2-32.5 dB; Size: 158.5 x 133 x 91 mm; RGB",
+    "Price": 267.69,
+    "PictureUrl": "images/products/cooler4.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "Cooler CPU Deepcool AK620",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1156, 1200, 2011, 2011-3, 2066, 1700, AM2, AM2+, AM3, AM3+, AM4, AM5, FM1, FM2, FM2+; Type: Air Cooling System; Fan RPM: 500 - 1850; Fan Noise: 28.1 dB; Size: 160 x 138 x 129 mm",
+    "Price": 357.89,
+    "PictureUrl": "images/products/cooler5.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "Cooler CPU Deepcool LS720 ARGB 360mm",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1156, 1200, 2011, 2011-3, 1700, AM4, AM5; Type: Liquid Cooling System; Fan RPM: 500-2250; Fan Noise: 32.9 dB; Size: 410 x 120 x 27 mm",
+    "Price": 727.99,
+    "PictureUrl": "images/products/cooler6.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "Cooler CPU ARCTIC AC Liquid Freezer II 240 RGB, RGB Controller",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1156, 1200, 2011-3, 2066, AM4, AM5; Type: Liquid Cooling System; Fan RPM: 1000?�?3000; Size: 277 x 120 x 38 mm",
+    "Price": 607.39,
+    "PictureUrl": "images/products/cooler7.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "Cooler CPU Deepcool AK400 Zero Dark Plus",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1200, 1700, AM4, AM5; Type: Air Cooling System; Fan RPM: 500 - 1650; Fan Noise: 28 dB; Size: 154x120x73 mm",
+    "Price": 272.29,
+    "PictureUrl": "images/products/cooler8.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "Cooler CPU Deepcool Gammaxx GTE V2 RGB",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1200, 1366, AM2, AM2+, AM3, AM3+, AM4, FM1, FM2, FM2+; Type: Air Cooling System; Fan RPM: 500 - 1650; Fan Noise: 27.8 dB; Size: 157.5 x 129 x 77 mm",
+    "Price": 165.59,
+    "PictureUrl": "images/products/cooler9.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "Cooler CPU ID-Cooling SE-914-XT V2 ARGB",
+    "Description": "Socket Compatibility: 1150, 1151, 1155, 1156, 1200, 2011, 2066, 1700, AM4, AM5; Type: Air Cooling System; Fan RPM: 600 - 2200; Fan Noise: 14 - 25.8 dB; Size: 131 x 103.7 x 95 mm",
+    "Price": 193.29,
+    "PictureUrl": "images/products/cooler10.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "Laptop Lenovo 15.6'' V15 G2 ITL, FHD, Intel Core i5-1135G7, 8GB DDR4, 512GB SSD, Intel Iris Xe, No OS, Black",
+    "Description": "CPU: Intel Core i5-1135G7 2.4GHz; Screen: 15.6\" LED 60Hz; Memory: 8GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: Intel Iris Xe; Dimensions: 359.2 x 235.8 x 19.9 mm; Weight: 1.6 kgs",
+    "Price": 2148.99,
+    "PictureUrl": "images/products/laptop1.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "Laptop HP 15.6\" 250 G9, FHD, Intel Core i5-1235U, 16GB DDR4, 512GB SSD, Intel Iris Xe, Win 11 Pro, Dark Ash Silver",
+    "Description": "CPU: Intel Core i5-1235U; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: Intel Iris Xe; Dimensions: 358 x 242 x 19.9 mm; Weight: 1.74 kgs",
+    "Price": 3698.99,
+    "PictureUrl": "images/products/laptop2.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "Laptop DELL 15.6\" Vostro 5510, FHD, Intel Core i5-11320H, 16GB DDR4, 512GB SSD, Intel Iris Xe, Win 10 Pro, Titan Grey",
+    "Description": "CPU: Intel Core i5-11320 3.2GHz; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: Intel Iris Xe; Dimensions: 356.06 x 228.82 x 14.16 mm; Weight: 1.75 kgs",
+    "Price": 4498.99,
+    "PictureUrl": "images/products/laptop3.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "Laptop Lenovo 15.6\" V15 G2 ALC, FHD, AMD Ryzen 7 5700U, 16GB DDR4, 512GB SSD, Radeon, No OS, Black",
+    "Description": "CPU: AMD Ryzen 7 5700U 1.8GHz; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: AMD Radeon; Dimensions: 359.2 x 235.8 x 19.9 mm; Weight: 1.7 kgs",
+    "Price": 2999.99,
+    "PictureUrl": "images/products/laptop4.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "Laptop Apple 13.3\" MacBook Air 13, Apple M1 Chip(8-core), 8GB, 256GB SSD, Apple M1 7-core GPU, macOS Big Sur, Space Grey",
+    "Description": "CPU: Apple M1 chip; Screen: 13.3\" LED 60Hz Retina Display; Memory: 8GB DDR4; Storage: 256GB flash PCIe; Graphics Card: Apple M1; Dimensions: 304.1 x 212.4 x 4.1 mm; Weight: 1.29 kgs",
+    "Price": 4798.99,
+    "PictureUrl": "images/products/laptop5.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "Laptop ASUS 15.6\" ExpertBook L2 L2502CYA, FHD, AMD Ryzen 7 5825U, 16GB DDR4, 512GB SSD, Radeon, No OS, Star Black",
+    "Description": "CPU: AMD Ryzen 7 5825U 2GHz; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: AMD Radeon; Dimensions: 364.5 x 247.3 x 20 mm; Weight: 1.75 kgs",
+    "Price": 4298.99,
+    "PictureUrl": "images/products/laptop6.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Laptop Lenovo 15.6\" ThinkPad E15 Gen 2, FHD, Intel Core i5-1135G7, 16GB DDR4, 512GB SSD, GeForce MX450 2GB, Win 10 Pro, Black",
+    "Description": "CPU: Intel Core i5-1135G7; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce MX450 2GB; Dimensions: 365 x 240 x 18.9 mm; Weight: 1.7 kgs",
+    "Price": 5298.99,
+    "PictureUrl": "images/products/laptop7.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "Laptop DELL 15.6\" Latitude 5531, FHD, Intel Core i7-12800H, 16GB DDR5, 512GB SSD, Intel Iris Xe, Win 11 Pro",
+    "Description": "CPU: Intel Core i7-12800H; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR5; Storage: 512GB M.2 PCIe SSD; Graphics Card: Intel Iris Xe; Dimensions: 357.8 x 233.3 x 22.67 mm; Weight: 1.79 kgs",
+    "Price": 8298.99,
+    "PictureUrl": "images/products/laptop8.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "Laptop HP 15.6\" 250 G9, FHD, Intel Core i3-1215U, 8GB DDR4, 256GB SSD, GMA UHD, Free DOS, Dark Ash Silver",
+    "Description": "CPU: Intel Core i3-1215U; Screen: 15.6\" LED 60Hz; Memory: 8GB DDR4; Storage: 256GB M.2 PCIe SSD; Graphics Card: Intel GMA UHD; Dimensions: 358 x 242 x 19.9 mm; Weight: 1.74 kgs",
+    "Price": 1898.99,
+    "PictureUrl": "images/products/laptop9.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "Laptop HP 17.3\" 470 G9, FHD IPS, Intel Core i7-1255U, 16GB DDR4, 512GB SSD, GeForce MX550 2GB, Win 11 Pro, Silver",
+    "Description": "CPU: Intel Core i7-1255U; Screen: 17.3\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce MX550 2GB; Dimensions: 400.7 x 257.8 x 19.9 mm; Weight: 2.08 kgs",
+    "Price": 5598.99,
+    "PictureUrl": "images/products/laptop10.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "Laptop ASUS Gaming 15.6\" TUF F15 FX506HC, FHD 144Hz, Intel Core i5-11400H, 16GB DDR4, 512GB SSD, GeForce RTX 3050 4GB, No OS, Black",
+    "Description": "CPU: Intel Core i5-11400H; Screen: 15.6\" LED 144Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce RTX 3050 4GB; Dimensions: 359 x 256 x 22.8 mm; Weight: 2.3 kgs",
+    "Price": 3698.99,
+    "PictureUrl": "images/products/laptopgaming1.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Laptop DELL Gaming 15.6\" G15 5511, FHD 120Hz, Intel Core-11260H, 8GB DDR4, 512GB SSD, GeForce RTX 3050 4GB, Linux, Grey",
+    "Description": "CPU: Intel Core i5-11260H; Screen: 15.6\" LED 120Hz; Memory: 8GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce RTX 3050 4GB; Dimensions: 357.3 x 272.1 x 21.3 mm; Weight: 2.81 kgs",
+    "Price": 3298.99,
+    "PictureUrl": "images/products/laptopgaming2.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "Laptop Lenovo Gaming 15.6\" IdeaPad 3 15ACH6, FHD IPS, AMD Ryzen 5 5600H, 16GB DDR4, 512GB SSD, GeForce RTX 3050 4GB, No OS, Black",
+    "Description": "CPU: AMD Ryzen 5 5600H; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce RTX 3050 4GB; Dimensions: 359.6 x 251.9 x 24.2 mm; Weight: 2.25 kgs",
+    "Price": 3598.99,
+    "PictureUrl": "images/products/laptopgaming3.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "Laptop HP Gaming 16.1\" Victus 16-d1011nq, FHD IPS 144Hz, Intel Core i5-12500H, 16GB DDR5, 512GB SSD, GeForce RTX 3060 6GB, Free DOS, White",
+    "Description": "CPU: Intel Core i5-12500H; Screen: 16.1\" LED 144Hz; Memory: 16GB DDR5; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce RTX 3060 6GB; Dimensions: 370 x 260 x 23.5 mm; Weight: 2.46 kgs",
+    "Price": 5198.99,
+    "PictureUrl": "images/products/laptopgaming4.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "Laptop MSI Gaming 15.6\" GF63 Thin 11SC, FHD, Intel Core i5-11400H, 16GB DDR4, 512GB SSD, GeForce GTX 1650 4GB, Free DOS, Black",
+    "Description": "CPU: Intel Core i5-11400H; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce GTX 1650 4GB; Dimensions: 359 x 254 x 21.7 mm; Weight: 1.86 kgs",
+    "Price": 3398.99,
+    "PictureUrl": "images/products/laptopgaming5.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Laptop ASUS Gaming 15.6\" TUF Dash F15 FX517ZE, FHD 144Hz, Intel Core i7-12650H, 16GB DDR5, 512GB SSD, GeForce RTX 3050 Ti 4GB, No OS, Black",
+    "Description": "CPU: Intel Core i7-12650H; Screen: 15.6\" LED 144Hz; Memory: 16GB DDR5; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce RTX 3050 Ti; Dimensions: 354 x 251 x 19.9 mm; Weight: 2 kgs",
+    "Price": 5189.99,
+    "PictureUrl": "images/products/laptopgaming6.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Laptop Lenovo Gaming 15.6\" IdeaPad 3 15IHU6, FHD IPS, Intel Core i5-11320H, 16GB DDR4, 512GB SSD, GeForce GTX 1650 4GB, No OS, Black",
+    "Description": "CPU: Intel Core i5-11320H; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce GTX 1650 4GB; Dimensions: 359.6 x 251.9 x 24.2 mm; Weight: 2.25 kgs",
+    "Price": 3348.99,
+    "PictureUrl": "images/products/laptopgaming7.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "Laptop MSI Gaming 15.6\" GF63 Thin 11SC, FHD 144Hz, Intel Core i7-11800H, 16GB DDR4, 512GB, GeForce GTX 1650 4GB, Free DOS, Black",
+    "Description": "CPU: Intel Core i7-11800H; Screen: 15.6\" LED 144Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce GTX 1650 4GB; Dimensions: 359 x 254 x 21.7 mm; Weight: 1.86 kgs",
+    "Price": 3798.99,
+    "PictureUrl": "images/products/laptopgaming8.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Laptop Lenovo Gaming 15.6\" IdeaPad 3 15ACH6, FHD IPS, AMD Ryzen 7 5800H, 16GB DDR4, 512GB SSD, GeForce RTX 3050 4GB, No OS, Black",
+    "Description": "CPU: AMD Ryzen 7 5800H; Screen: 15.6\" LED 60Hz; Memory: 16GB DDR4; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce RTX 3050 4GB; Dimensions: 359.6 x 251.9 x 24.2 mm; Weight: 2.25 kgs",
+    "Price": 3999.99,
+    "PictureUrl": "images/products/laptopgaming9.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "Laptop DELL Gaming 15.6\" G15 5520, FHD 120Hz, Intel Core i7-12700H, 16GB DDR5, 512GB SSD, GeForce RTX 3060 6GB, Linux, Grey",
+    "Description": "CPU: Intel Core i7-12700H; Screen: 15.6\" LED 120Hz; Memory: 16GB DDR5; Storage: 512GB M.2 PCIe SSD; Graphics Card: NVIDIA GeForce RTX 3060 6GB; Dimensions: 357.26 x 272.11 x 21.32 mm; Weight: 2.67 kgs",
+    "Price": 5889.99,
+    "PictureUrl": "images/products/laptopgaming10.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "PC Gaming, AMD  Ryzen 3 3200G 3.6GHz, 16GB DDR4, 250GB SSD, Amd Radeon Vega 8",
+    "Description": "CPU: AMD Ryzen 3 3200G; Memory: 16GB DDR4; Storage: 250GB Sata-III SSD; Graphics Card: AMD Radeon Vega 8; PSU: 500W; Case: Inter-Tech IT-3306 Cavy",
+    "Price": 1649.99,
+    "PictureUrl": "images/products/desktop1.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "PC Gaming, AMD Ryzen 5 3600 3.6GHz, 16GB DDR4, 500GB SSD, GTX 1650 4GB GDDR6",
+    "Description": "CPU: AMD Ryzen 5 3600; Memory: 16GB DDR4; Storage: 500GB PCI-e 3.0 SSD; Graphics Card: GeForce GTX 1650 4GB; PSU: 550W; Case: Aerocool Shard RGB Tempered Glass",
+    "Price": 3099.99,
+    "PictureUrl": "images/products/desktop2.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "PC Gaming, Intel i3-10105F 3,7GHz, 8GB DDR4, 512GB SSD, GTX 1050 Ti 4GB GDDR5",
+    "Description": "CPU: i3-10105F; Memory: 8GB DDR4; Storage: 500GB PCI-e 3.9 SSD; Graphics Card: GeForce GTX 1050 Ti 4GB; PSU: 550W; Case: Aerocool Menace Saturn FRGB",
+    "Price": 2296.99,
+    "PictureUrl": "images/products/desktop3.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "PC Gaming, Intel i5-12400F 2.5GHz, 32GB DDR4, 1TB SSD, RTX 3070 8GB GDDR6",
+    "Description": "CPU: Intel i5-12400F; Memory: 32GB DDR4; Storage: 1TB M.2 PCI-e SSD; Graphics Card: GeForce RTX 3070 8GB; PSU: 750W; Case: Fractal Design Pop Air RGB Black",
+    "Price": 5999.99,
+    "PictureUrl": "images/products/desktop4.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "PC Gaming, Intel i7-12700F 2.1GHz, 32GB DDR4, 1TB SSD, RTX 3070 8GB GDDR6",
+    "Description": "CPU: Intel i7-12700F; Memory: 32GB DDR4; Storage: 1TB M.2 PCI-e 4.0; Graphics Card: GeForce RTX 3070 8GB; PSU: 700W; Case: Redragon SkyFire Black",
+    "Price": 7499.99,
+    "PictureUrl": "images/products/desktop5.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "PC Gaming, Intel i7-12700F 2.1GHz, 32GB DDR4, 500GB SSD+2TB HDD, RTX 3060 12GB GDDR6",
+    "Description": "CPU: Intel i7-12700F; Memory: 32GB DDR4; Storage: 2TB SATA-III HDD, 500GB M.2 PCI-e 3.0 SSD; Graphics Card: GeForce RTX 3060 12GB; PSU: 650W; Case: Inaza Prism",
+    "Price": 6499.99,
+    "PictureUrl": "images/products/desktop6.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "PC Gaming, Intel i5-13400F 2.5GHz, 32GB DDR4, 500GB SSD, RTX 3060 8GB GDDR6",
+    "Description": "CPU: Intel i5-13400F; Memory: 32GB DDR4; Storage: 500GB M.2 PCI-e 3.0 SSD; Graphics Card: GeForce RTX 3060 8GB; PSU: 550W; Case: Aerocool Sentinel TG RGB",
+    "Price": 4745.99,
+    "PictureUrl": "images/products/desktop7.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "PC Gaming, AMD Ryzen 9 7950X 4.5GHz, 64GB DDR5, 1TB SSD, RTX 4070 Ti 12GB GDDR6X",
+    "Description": "CPU: AMD Ryzen 9 7950X; Memory: 64GB DDR5; Storage: 1TB M.2 PCI-e 4.0 SSD; Graphics Card: GeForce RTX 4070 Ti 12GB; PSU: 850W; Case: Thermaltake Divider 300 TG",
+    "Price": 15329.99,
+    "PictureUrl": "images/products/desktop8.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "PC Gaming, Intel i7-12700KF 3.6GHz, 32GB DDR5, 2TB SSD, RTX 3080 Ti 12GB GDDR6X",
+    "Description": "CPU: Intel i7-12700KF; Memory: 32GB DDR5; Storage: 2TB M.2 PCI-e SSD; Graphics Card: GeForce RTX 3080 Ti 12GB; PSU: 750W; Case: ASUS TUF Gaming GT501",
+    "Price": 17199.99,
+    "PictureUrl": "images/products/desktop9.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "PC Gaming, AMD Ryzen 9 7950X 4.5GHz, 64GB DDR5, 2TB SSD, RTX 3080 Ti 12GB GDDR6X",
+    "Description": "CPU: AMD Ryzen 9 7950X; Memory: 64GB DDR5; Storage: 2TB M.2 PCI-e 3.0 SSD; Graphics Card: GeForce RTX 3080 Ti 12GB; PSU: 1000W; Case: be quiet! Pure Base 500DX Black",
+    "Price": 17489.99,
+    "PictureUrl": "images/products/desktop10.jpg",
+    "ProductTypeId": 12,
+    "ProductBrandId": 36
+  },
+  {
+    "Name": "LED Monitor Samsung Gaming Odyssey G3 LS24AG320NUXEN 24inch FHD VA 1ms 165Hz",
+    "Description": "Resolution: 1920x1080; Response Time: 1ms; Refresh Rate: 165 Hz; FreeSync: Yes; Gsync: No; Dimensions: 544 x 499 x 234 mm; Weight: 4.5 kgs",
+    "Price": 829.99,
+    "PictureUrl": "images/products/monitor1.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "LED Monitor AOC E2270SWN 21.5inch FHD TN 5ms 60Hz",
+    "Description": "Resolution: 1920x1080; Response Time: 5ms; Refresh Rate: 60 Hz; FreeSync: No; Gsync: No; Dimensions: 503.4 x 311.1 x 48 mm; Weight: 2.8 kgs",
+    "Price": 438.99,
+    "PictureUrl": "images/products/monitor2.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "LED Monitor Samsung LS24R356FZUXEN 23.8inch FHD IPS 5ms 75Hz FreeSync",
+    "Description": "Resolution: 1920x1080; Response Time: 5ms; Refresh Rate: 75 Hz; FreeSync: Yes; Gsync: No; Dimensions: 540 x 425 x 236 mm; Weight: 3.4 kgs",
+    "Price": 634.99,
+    "PictureUrl": "images/products/monitor3.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "LED Monitor ASUS ProArt PA278QV 27inch QHD IPS 5ms 75Hz",
+    "Description": "Resolution: 2560x1440; Response Time: 5ms; Refresh Rate: 75 Hz; FreeSync: No; Gsync: No; Dimensions: 615 x 382 x 226 mm; Weight: 7.7 kgs",
+    "Price": 1877.99,
+    "PictureUrl": "images/products/monitor4.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "LED Monitor ASUS Gaming TUF VG24VQR 23.6inch FHD VA 1ms 165Hz FreeSync",
+    "Description": "Resolution: 1920x1080; Response Time: 1ms; Refresh Rate: 165 Hz; FreeSync: No; Gsync: No; Dimensions: 538 x 377 x 218 mm; Weight: 5.7 kgs",
+    "Price": 1019.99,
+    "PictureUrl": "images/products/monitor5.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "LED Monitor Philips 24E1N5300AE 23.8inch FHD IPS 1ms 75Hz",
+    "Description": "Resolution: 1920x1080; Response Time: 1ms; Refresh Rate: 75 Hz; FreeSync: No; Gsync: No; Dimensions: 540 x 479 x 198 mm; Weight: 4.4 kgs",
+    "Price": 796.99,
+    "PictureUrl": "images/products/monitor6.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "LED Monitor ASUS VA27DQSB 27inch 5ms FHD IPS 75Hz FreeSync",
+    "Description": "Resolution: 1920x1080; Response Time: 5ms; Refresh Rate: 75 Hz; FreeSync: Yes; Gsync: No; Dimensions: 612 x 373 x 226 mm; Weight: 6.8 kgs",
+    "Price": 937.99,
+    "PictureUrl": "images/products/monitor7.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "LED Monitor Samsung LS27A600U 27inch QHD IPS 5ms 75Hz HDR FreeSync",
+    "Description": "Resolution: 2560x1440; Response Time: 5ms; Refresh Rate: 75 Hz; FreeSync: Yes; Gsync: No; Dimensions: 616 x 552 x 196 mm; Weight: 6.7 kgs",
+    "Price": 1298.99,
+    "PictureUrl": "images/products/monitor8.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "LED Monitor BenQ Gaming Zowie XL2540K 24.5inch 1ms 240Hz",
+    "Description": "Resolution: 1920x1080; Response Time: 1ms; Refresh Rate: 240 Hz; FreeSync: No; Gsync: No; Dimensions: 571 x 336 x 200 mm; Weight: 6.1 kgs",
+    "Price": 1839.99,
+    "PictureUrl": "images/products/monitor9.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "LED Monitor AOC Gaming AGON AG275QXL 27inch QHD IPS 1ms 170Hz HDR FreeSync",
+    "Description": "Resolution: 2560x1440; Response Time: 1ms; Refresh Rate: 170 Hz; FreeSync: Yes; Gsync: No; Dimensions: 613 x 424 x 249 mm; Weight: 7.8 kgs",
+    "Price": 2333.99,
+    "PictureUrl": "images/products/monitor10.jpg",
+    "ProductTypeId": 13,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "Gaming Mouse Logitech G502 HERO",
+    "Description": "Technology: Wired; Interface: USB; Resolution: 25600 DPI; Buttons: 11; Dimensions: 132 x 75 x 40 mm; Weight: 121 g",
+    "Price": 249.99,
+    "PictureUrl": "images/products/mouse1.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Gaming Mouse Logitech G203 Lightsync RGB",
+    "Description": "Technology: Wired; Interface: USB; Resolution: 8000 DPI; Buttons: 6; Dimensions: 116.6 x 62.15 x 38.2 mm; Weight: 85 g",
+    "Price": 199.99,
+    "PictureUrl": "images/products/mouse2.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Gaming Mouse SteelSeries Rival 3",
+    "Description": "Technology: Wired; Interface: USB; Resolution: 8500 DPI; Buttons: 6; Dimensions: 120.6 x 58.3 x 37.9 mm; Weight: 77 g",
+    "Price": 99.99,
+    "PictureUrl": "images/products/mouse3.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Gaming Mouse Redragon Sniper RGB",
+    "Description": "Technology: Wired; Interface: USB; Resolution: 12400 DPI; Buttons: 9; Dimensions: 121 x 81 x 41 mm; Weight: 161 g",
+    "Price": 159.99,
+    "PictureUrl": "images/products/mouse4.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "Gaming Mouse Logitech G502 X Plus Lightspeed",
+    "Description": "Technology: Wired; Interface: USB; Resolution: 25600 DPI; Buttons: 10; Dimensions: 131.4 x 79.2 x 41.1 mm; Weight: 106 g",
+    "Price": 899.99,
+    "PictureUrl": "images/products/mouse5.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Gaming Mouse SteelSeries Rival 5",
+    "Description": "Technology: Wired; Interface: USB; Resolution: 18000 DPI; Buttons: 9; Dimensions: 120 x 60 x 40 mm; Weight:85 g",
+    "Price": 186.99,
+    "PictureUrl": "images/products/mouse6.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Gaming Mouse SteelSeries Rival 310",
+    "Description": "Technology: Wired; Interface: USB; Resolution: 12000 DPI; Buttons: 6; Dimensions: 127.6 x 70 x 42 mm; Weight: 88.3 g",
+    "Price": 235.59,
+    "PictureUrl": "images/products/mouse7.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Gaming Mouse Logitech G Pro Lightspeed Wireless",
+    "Description": "Technology: Wireless; Interface: USB; Resolution: 25600 DPI; Buttons: 8; Dimensions: 125 x 63.5 x 40 mm; Weight: 80 g",
+    "Price": 569.99,
+    "PictureUrl": "images/products/mouse8.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Gaming Mouse Redragon Cobra V2 RGB",
+    "Description": "Technology: Wired; Interface: USB; Resolution: 12400 DPI; Buttons: 8; Dimensions: 126.8 x 65.5 x 41 mm; Weight: 130 g",
+    "Price": 79.99,
+    "PictureUrl": "images/products/mouse9.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "Gaming Mouse Razer Basilisk V3 PRO",
+    "Description": "Technology: Wired/Wireless; Interface: USB/Bluetooth; Resolution: 30000 DPI; Buttons: 11; Dimensions: 130 x 42.5 x 60 mm; Weight: 112 g",
+    "Price": 688.49,
+    "PictureUrl": "images/products/mouse10.jpg",
+    "ProductTypeId": 14,
+    "ProductBrandId": 33
+  },
+  {
+    "Name": "Gaming Keyboard ASUS ROG STRIX SCOPE RX TKL WL DELUXE PBT, ROG RX Red",
+    "Description": "Technology: Wired/Wireless; Interface: USB; Switch: ROG RX Red; Layout: US; Dimensions: 356 x 136 x 39 mm; Weight: 854 g",
+    "Price": 942.99,
+    "PictureUrl": "images/products/keyboard1.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Gaming Keyboard Redragon Dark Avenger RGB",
+    "Description": "Technology: Wired; Interface: USB; Switch: Outemu Blue; Layout: US; Dimensions: 370 x 150 x 40 mm; Weight: 802 g",
+    "Price": 149.99,
+    "PictureUrl": "images/products/keyboard2.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "Gaming Keyboard Logitech G213 Prodigy",
+    "Description": "Technology: Wired; Interface: USB; Switch: -; Layout: US; Dimensions: 452 x 218 x 33 mm; Weight: 1000 g",
+    "Price": 249.99,
+    "PictureUrl": "images/products/keyboard3.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Gaming Keyboard SteelSeries Apex 5",
+    "Description": "Technology: Wired; Interface: USB; Switch: Hybrid Blue; Layout: US; Dimensions: 442.8 x 139.2 x 40.5 mm; Weight: 925 g",
+    "Price": 469.79,
+    "PictureUrl": "images/products/keyboard4.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Gaming Keyboard SteelSeries Apex 3",
+    "Description": "Technology: Wired; Interface: USB; Switch: -; Layout: US; Dimensions: 444.7 x 151.6 x 40 mm; Weight: 816 g",
+    "Price": 262.29,
+    "PictureUrl": "images/products/keyboard5.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Gaming Keyboard Logitech G413 Silver White LED",
+    "Description": "Technology: Wired; Interface: USB; Switch: Romer-G; Layout: US; Dimensions: 445 x 132 x 34 mm; Weight: 1105 g",
+    "Price": 295.99,
+    "PictureUrl": "images/products/keyboard6.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Gaming Keyboard Redragon Knight RGB Brown Switch",
+    "Description": "Technology: Wired/Wireless; Interface: USB; Switch: Outemu Brown; Layout: US; Dimensions: 350 x 135 x 40 mm; Weight: 823 g",
+    "Price": 236.79,
+    "PictureUrl": "images/products/keyboard7.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "Gaming Keyboard Logitech G413 TKL SE",
+    "Description": "Technology: Wired; Interface: USB; Switch: Tactile; Layout: US; Dimensions: 355 x 127 x 36.3 mm; Weight: 650 g",
+    "Price": 329.99,
+    "PictureUrl": "images/products/keyboard8.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Gaming Keyboard SteelSeries Apex 9 TKL",
+    "Description": "Technology: Wired; Interface: USB; Switch: OptiPoint; Layout: US; Dimensions: 356 x 136 x 42  mm; Weight: 713 g",
+    "Price": 514.49,
+    "PictureUrl": "images/products/keyboard9.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Gaming Keyboard Redragon Kala Black",
+    "Description": "Technology: Wired; Interface: USB; Switch: Outemu Blue; Layout: US; Dimensions: 437.1 x 172.2 x 37.8 mm; Weight: 754 g",
+    "Price": 197.19,
+    "PictureUrl": "images/products/keyboard10.jpg",
+    "ProductTypeId": 15,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "Gaming Headset ASUS TUF H1 Wireless",
+    "Description": "Technology: Wireless; Speaker Diameter: 40 mm; Frequency: 20Hz-20kHz; Noise-canceling: Yes; Compatibility: PC, PS4, Nintendo, PS5",
+    "Price": 299.99,
+    "PictureUrl": "images/products/headset1.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Gaming Headset Logitech G432 7.1 Surround",
+    "Description": "Technology: Wired; Speaker Diameter: 50 mm; Frequency: 20Hz-20kHz; Noise-canceling: No; Compatibility: Laptop, PC, Xbox One, PS4, Smartphone",
+    "Price": 329.99,
+    "PictureUrl": "images/products/headset2.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Gaming Headset HyperX Cloud II 7.1 Gun Metal",
+    "Description": "Technology: Wired; Speaker Diameter: 53 mm; Frequency: 15Hz-25kHz; Noise-canceling: Yes; Compatibility: PC, PS4, Xbox One",
+    "Price": 379.99,
+    "PictureUrl": "images/products/headset3.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Gaming Headset SteelSeries Arctis Nova 1",
+    "Description": "Technology: Wired; Speaker Diameter: 40 mm; Frequency: 20Hz-22kHz; Noise-canceling: Yes; Compatibility: PC, Xbox One, PS4, PS5, Xbox Series X, Xbox Series S",
+    "Price": 257.59,
+    "PictureUrl": "images/products/headset4.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Gaming Headset HyperX Cloud Stinger",
+    "Description": "Technology: Wired; Speaker Diameter: 50 mm; Frequency: 18Hz-23kHz; Noise-canceling: Yes; Compatibility: Laptop, PC, Xbox One, PS4",
+    "Price": 259.99,
+    "PictureUrl": "images/products/headset5.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Gaming Headset HyperX Cloud Alpha",
+    "Description": "Technology: Wired; Speaker Diameter: 50 mm; Frequency: 13Hz-27kHz; Noise-canceling: No; Compatibility: Laptop, PC",
+    "Price": 379.99,
+    "PictureUrl": "images/products/headset6.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Gaming Headset Logitech G PRO",
+    "Description": "Technology: Wired; Speaker Diameter: 50 mm; Frequency: 20Hz-20kHz; Noise-canceling: No; Compatibility: PC, Smartphone",
+    "Price": 449.99,
+    "PictureUrl": "images/products/headset7.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Gaming Headset ASUS ROG Strix Fusion 300 II RGB",
+    "Description": "Technology: Wired; Speaker Diameter: 50 mm; Frequency: 20Hz-40kHz; Noise-canceling: Yes; Compatibility: PC, Xbox One, PS4, Nintendo, PS5, Xbox Series S, Xbox Series X",
+    "Price": 610.59,
+    "PictureUrl": "images/products/headset8.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Gaming Headset HyperX Cloud Alpha Wireless",
+    "Description": "Technology: Wireless; Speaker Diameter: 50 mm; Frequency: 15Hz-21kHz; Noise-canceling: No; Compatibility: Laptop, PC",
+    "Price": 929.99,
+    "PictureUrl": "images/products/headset9.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Gaming Headset Logitech G733 Lightspeed Wireless RGB",
+    "Description": "Technology: Wireless; Speaker Diameter: 40 mm; Frequency: 20Hz-20kHz; Noise-canceling: No; Compatibility: PC, PS4",
+    "Price": 699.99,
+    "PictureUrl": "images/products/headset10.jpg",
+    "ProductTypeId": 16,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Mouse Pad SteelSeries SteelPad QcK Black",
+    "Description": "Length: 320 mm; Width: 270 mm; Depth: 2 mm; Material: Microfiber with rubber base",
+    "Price": 55.19,
+    "PictureUrl": "images/products/pad1.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Mouse Pad ASUS ROG Sheath",
+    "Description": "Length: 900 mm; Width: 440 mm; Depth: 3 mm; Material: Textile with rubber base",
+    "Price": 249.99,
+    "PictureUrl": "images/products/pad2.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Mouse Pad SteelSeries QcK Edge Large",
+    "Description": "Length: 450 mm; Width: 400 mm; Depth: 2 mm; Material: Textile with rubber base",
+    "Price": 99.89,
+    "PictureUrl": "images/products/pad3.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Mouse Pad Logitech G240",
+    "Description": "Length: 340 mm; Width: 280 mm; Depth: 1 mm; Material: Textile with rubber base",
+    "Price": 52.19,
+    "PictureUrl": "images/products/pad4.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Mouse Pad SteelSeries QcK 3XL",
+    "Description": "Length: 1220 mm; Width: 590 mm; Depth: 3 mm; Material: Textile with rubber base",
+    "Price": 229.99,
+    "PictureUrl": "images/products/pad5.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 35
+  },
+  {
+    "Name": "Mouse Pad Logitech G840 XL",
+    "Description": "Length: 900 mm; Width: 400 mm; Depth: 3 mm; Material: Textile with rubber base",
+    "Price": 187.19,
+    "PictureUrl": "images/products/pad6.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Mouse Pad Lenovo IdeaPad Gaming L",
+    "Description": "Length: 450 mm; Width: 400 mm; Depth: 2 mm; Material: Textile with rubber base",
+    "Price": 32.99,
+    "PictureUrl": "images/products/pad7.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "Mouse Pad ASUS TUF Gaming P1",
+    "Description": "Length: 360 mm; Width: 260 mm; Depth: 2 mm; Material: Textile with rubber base",
+    "Price": 49.99,
+    "PictureUrl": "images/products/pad8.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Mouse Pad HyperX Pulsfire Mat M",
+    "Description": "Length: 360 mm; Width: 300 mm; Depth: 3 mm; Material: Textile with rubber base",
+    "Price": 67.99,
+    "PictureUrl": "images/products/pad9.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Mouse Pad Razer Goliathus Mobile Stealth Edition",
+    "Description": "Length: 270 mm; Width: 215 mm; Depth: 1.5 mm; Material: Textile with rubber base",
+    "Price": 44.99,
+    "PictureUrl": "images/products/pad10.jpg",
+    "ProductTypeId": 17,
+    "ProductBrandId": 33
+  }
+]
