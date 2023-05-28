@@ -16,8 +16,8 @@ namespace Infrastructure.Identity
                 var user = new AppUser
                 {
                     DisplayName = "George",
-                    Email = "george@test.com",
-                    UserName = "george@test.com",
+                    Email = "george2@email.com",
+                    UserName = "george2@email.com",
                     Address = new Address {
                         FirstName = "George",
                         LastName = "Comirdici",
@@ -27,7 +27,7 @@ namespace Infrastructure.Identity
                         ZipCode = "100359"
                     }
                 };
-                await userManager.CreateAsync(user, "B3stPa$sw0rd");
+                await userManager.CreateAsync(user, "Passw0rd!Strong");
             }
         }
     }
