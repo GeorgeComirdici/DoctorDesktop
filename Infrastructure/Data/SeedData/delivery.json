@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "ShortName": "DeliveryMethod1",
+    "Description": "Best delivery",
+    "DeliveryTime": "1-2 Days",
+    "Price": 10
+  },
+  {
+    "Id": 2,
+    "ShortName": "DeliveryMethod2",
+    "Description": "Second best delivery",
+    "DeliveryTime": "2-5 Days",
+    "Price": 5
+  },
+  {
+    "Id": 3,
+    "ShortName": "DeliveryMethod3",
+    "Description": "Slower and cheaper delivery method",
+    "DeliveryTime": "5-10 Days",
+    "Price": 2
+  },
+  {
+    "Id": 4,
+    "ShortName": "DeliveryMethod4",
+    "Description": "Free delivery, also the slowest one",
+    "DeliveryTime": "1-2 Weeks",
+    "Price": 0
+  }
+]
