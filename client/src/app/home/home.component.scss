@@ -1,9 +1,73 @@
-.featured {
-    height: 250px;
-}
-
-img {
-    object-fit: cover;
-    height: 600px;
+/*set height to 70vh to reduce the height of the container so that it doesn't cover too much of the screen.
+ added overflow: hidden to hide any portions of the image that may exceed the container.*/
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    overflow: hidden;
+  }
+  /*set width 100% to be sure that the slides occupy the entire width of the container*/
+  .slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
-}
+  }
+  /*used max-width: 100% to make sure that the images resize properly to the width of the slide container
+  height: auto to maintain the original size of the images.*/
+  .slide img {
+    max-width: 100%;
+    height: auto;
+    /* make sure the images cover the slide container */
+    object-fit: cover; 
+  }
+  /*added padding to create space around the content of the section*/
+  .featured {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  /*set font size and font weight to make the text more visible; added margin for spacing*/
+  .featured h1 {
+    font-size: 28px; 
+    font-weight: bold;
+    margin-bottom: 20px; 
+  }
+/*top margin for spacing */
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px; 
+  }
+
+  .social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%; /*circular social icons*/
+    background-color: #f2f2f2; /*background color for the icons */
+    margin: 0 10px; /*spacing between social icons */
+  }
+/*color and the font size of the social icons */
+  .social-icon i {
+    color: #555555; 
+    font-size: 30px; 
+  }
+/*top margin for spacing and aligning the content */
+  .contact-us {
+    margin-top: 40px; 
+    text-align: center; 
+  }
+  /*font weight and size + margin for spacing*/
+  .contact-us h3 {
+    font-size: 24px; 
+    font-weight: bold;
+    margin-bottom: 10px; 
+  }
+  /*vertical margin for spacing between contact details */
+  .contact-us p {
+    margin: 5px 0; 
+  }

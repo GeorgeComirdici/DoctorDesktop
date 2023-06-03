@@ -1,0 +1,10 @@
+.brand-list-container {
+    height: 200px; /* set the height of the div to 200px to display a limited number of brands */
+    overflow-y: auto;
+    margin-bottom: 20px; /* vertical scroll */
+  }
+  .type-list-container {
+    height: 200px; /* set the height of the div to 200px to display a limited number of product types */
+    overflow-y: auto;
+    margin-bottom: 20px; /* vertical scroll */
+  }

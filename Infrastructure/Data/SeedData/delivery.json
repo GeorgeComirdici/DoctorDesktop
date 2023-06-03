@@ -1,29 +1,29 @@
 [
   {
     "Id": 1,
-    "ShortName": "DeliveryMethod1",
-    "Description": "Best delivery",
+    "ShortName": "DHL",
+    "Description": "One of the largest courier companies worldwide",
     "DeliveryTime": "1-2 Days",
     "Price": 10
   },
   {
     "Id": 2,
-    "ShortName": "DeliveryMethod2",
-    "Description": "Second best delivery",
+    "ShortName": "FedEx",
+    "Description": "Global delivery and transportation company known for its fast and reliable services",
     "DeliveryTime": "2-5 Days",
     "Price": 5
   },
   {
     "Id": 3,
-    "ShortName": "DeliveryMethod3",
-    "Description": "Slower and cheaper delivery method",
+    "ShortName": "UPS",
+    "Description": "Global logistics and delivery company with an extensive network for transportation and delivery",
     "DeliveryTime": "5-10 Days",
     "Price": 2
   },
   {
     "Id": 4,
-    "ShortName": "DeliveryMethod4",
-    "Description": "Free delivery, also the slowest one",
+    "ShortName": "TNT",
+    "Description": "International transport and delivery company with coverage in over 200 countries",
     "DeliveryTime": "1-2 Weeks",
     "Price": 0
   }

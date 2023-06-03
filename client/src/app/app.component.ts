@@ -22,7 +22,7 @@ export class AppComponent implements OnInit {
         console.log('User successfully loaded');
       }, error => {
         console.log(error);
-      })
+      });
   }
   loadBasket() {
     const basketId = localStorage.getItem('basket_id');
