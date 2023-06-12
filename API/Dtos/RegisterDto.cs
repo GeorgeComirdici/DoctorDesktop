@@ -14,7 +14,8 @@ namespace API.Dtos
         [EmailAddress]
         public string Email { get; set; }
         [Required]
-        [RegularExpression("(?=^.{6,30}$)(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&amp;*()_+}{&quot;:;'?/&gt;.&lt;,])(?!.*\\s).*$", ErrorMessage = "The password must contain at least 1 uppercase, 1 lowercase, 1 number, 1 non alphanumeric and at least 6 characters")]
+        [RegularExpression("(?=^.{6,30}$)(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&amp;*()_+}{&quot;:;'?/&gt;.&lt;,])(?!.*\\s).*$",
+        ErrorMessage = "The password must contain at least 1 uppercase, 1 lowercase, 1 number, 1 non alphanumeric and at least 6 characters")]
         public string Password { get; set; }
     }
 }

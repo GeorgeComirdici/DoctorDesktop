@@ -65,6 +65,7 @@ namespace API.Controllers
         [HttpPost("login")]
         public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
         {
+            //find the user by email using the UserManager
             var user = await _userManager.FindByEmailAsync(loginDto.Email);
             if (user == null) return Unauthorized(new ApiResponse(401));
             var result = await _signInManager.CheckPasswordSignInAsync(user, loginDto.Password, false);
@@ -80,18 +81,23 @@ namespace API.Controllers
         [HttpPost("register")]
         public async Task<ActionResult<UserDto>> Register(RegisterDto registerDto)
         {
+            //check if the email already exists
             if(CheckEmailExistsAsync(registerDto.Email).Result.Value)
             {
+                //return a BadRequestObjectResult with a custom error response
                 return new BadRequestObjectResult(new ApiValidationErrorResponse{Errors = new []{"Email address already exists."}});
             }
+            //creating a new instance of the AppUser class
             var user = new AppUser{
                 DisplayName = registerDto.DisplayName,
                 Email = registerDto.Email,
                 UserName = registerDto.Email
             };
+            //creating the user in the database using the UserManager
             var result = await _userManager.CreateAsync(user, registerDto.Password);
+            //check if the user creation failed and returning a BadRequest response
             if(!result.Succeeded) return BadRequest(new ApiResponse(400));
-
+            //return a UserDto with relevant user information and token
             return new UserDto
             {
                 DisplayName = user.DisplayName,

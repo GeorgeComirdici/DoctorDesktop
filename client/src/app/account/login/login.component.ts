@@ -20,8 +20,12 @@ export class LoginComponent implements OnInit{
     
   }
   createLoginForm() {
+    //create a new instance of FormGroup to represent the login form
     this.loginForm = new FormGroup({
+      //new instanc of the formControl for the email; required ensures that the field is not empty;
+      //pattern is used to validate the email using a regular expression
       email: new FormControl('', [Validators.required, Validators.pattern('^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$')]),
+      //the initial value of the password is an empty string, required ensures that the field isnt empty
       password: new FormControl('', Validators.required)
     });
   }

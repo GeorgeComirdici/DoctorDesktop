@@ -18,13 +18,16 @@ export class AccountService {
   constructor(private http: HttpClient, private router: Router) { }
 
   loadCurrentUser(token: string) {
-    if (token === null) {
+    console.log(token);
+    console.log('loadCurrentUser called');
+    if (!token) {
+      localStorage.removeItem('token');
       this.currentUserSource.next(null);
       return of(null);
     }
     let headers = new HttpHeaders();
     headers = headers.set('Authorization', `Bearer ${token}`);
-    return this.http.get(this.baseUrl+ 'account', {headers}).pipe(map((user: IUser) => {
+    return this.http.get(this.baseUrl + 'account', {headers}).pipe(map((user: IUser) => {
       if(user)
       {
         localStorage.setItem('token', user.token);

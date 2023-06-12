@@ -14,6 +14,7 @@ export class AppComponent implements OnInit {
 
   ngOnInit(): void {
     this.loadBasket();
+    console.log('ngOnInit called');
     this.loadCurrentUser();
   }
   loadCurrentUser() {
@@ -23,7 +24,7 @@ export class AppComponent implements OnInit {
       }, error => {
         console.log(error);
       });
-  }
+}
   loadBasket() {
     const basketId = localStorage.getItem('basket_id');
     if(basketId) {

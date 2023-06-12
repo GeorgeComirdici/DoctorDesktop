@@ -27,7 +27,7 @@ namespace API.Controllers
 
         [HttpPost]
         public async Task<ActionResult<Order>> CreateOrder(OrderDto orderDto)
-        {
+        {   
             var email = HttpContext.User.RetrieveEmailFromPrincipal();
             var address = _mapper.Map<AddressDto, Address>(orderDto.ShipToAddress);
             var order = await _orderService.CreateOrderAsync(email, orderDto.DeliveryMethodId, orderDto.BasketId, address);
@@ -39,9 +39,11 @@ namespace API.Controllers
         [HttpGet]
         public async Task<ActionResult<IReadOnlyList<OrderDto>>> GetOrdersForUser()
         {
+            //get the email address of the current user from the HTTP context
             var email = HttpContext.User.RetrieveEmailFromPrincipal();
+            //call the _orderService to get the orders for the user asynchronously
             var orders = await _orderService.GetOrdersForUserAsync(email);
-
+            //map the list of Order objects to a list of OrderToReturnDto objects, using AutoMapper
             return Ok(_mapper.Map<IReadOnlyList<Order>, IReadOnlyList<OrderToReturnDto>>(orders));
         }
 
