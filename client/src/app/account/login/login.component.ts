@@ -14,15 +14,18 @@ export class LoginComponent implements OnInit{
   constructor(private accountService: AccountService, private router: Router, private activatedRoute: ActivatedRoute) {}
 
   ngOnInit() {
+    // get the returnUrl from the query parameters of the activated route
+    // if returnUrl is not provided, set it to '/shop'
     this.returnUrl = this.activatedRoute.snapshot.queryParams.returnUrl || '/shop';
-    //initialize form when login component is created
+    // initialize the login form when the LoginComponent is created
     this.createLoginForm();
-    
   }
+
+  // method to create the login form
   createLoginForm() {
     //create a new instance of FormGroup to represent the login form
     this.loginForm = new FormGroup({
-      //new instanc of the formControl for the email; required ensures that the field is not empty;
+      //new instance of the formControl for the email; required ensures that the field is not empty;
       //pattern is used to validate the email using a regular expression
       email: new FormControl('', [Validators.required, Validators.pattern('^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$')]),
       //the initial value of the password is an empty string, required ensures that the field isnt empty
